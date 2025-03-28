@@ -1,2 +1,0 @@
-# DLaredo
-Empresa de construcción
