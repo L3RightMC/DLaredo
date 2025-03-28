@@ -1,3 +1,0 @@
-Esta página web está copiado diseñadamente (más o menos) por Domingo Laredo y escribiendo mi propio código, fijándome detalle a detalle y escribir lo que suponía qué es. Empresa donde trabaja actualmente mi padre. Probablemente se me salió algo, un espacio en css o html. Las animaciones no afectan los demás contenido porque la gente se enfoca en la primera parte que se enseña el html. Si hay algún espacio y/o error, decirmelo por favor. Muchas gracias.
-Link del host: https://l3rightmc.github.io/DLaredo
-Link del repositorio: https://github.com/L3RightMC/DLaredo
